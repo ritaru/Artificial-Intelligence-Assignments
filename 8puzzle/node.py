@@ -1,5 +1,4 @@
 # -*- coding: utf8 -*-
-# 걍 EightPuzzle 클래스 감싸는 Node 클래스
 
 class Node:
     def __init__(self, depth, data):
