@@ -1,6 +1,6 @@
 # About
 https://github.com/JeongUkJae/Artificial-Intelligence-Assignments 중 8Puzzle Problem Solver만을 포크한 레포지토리입니다.
-2018년 2학기 인공지능 수업 과제 제출용입니다.
+2018년 2학기 인공지능 수업 과제 제출용입니다.  
 
 ## 8 Puzzle
 
